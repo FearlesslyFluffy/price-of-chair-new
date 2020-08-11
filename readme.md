@@ -1,5 +1,7 @@
 # Pricing Service
 
+Added three lines and this text to test editing and git process as part of the Udemy price-of-chair course.
+
 Requires Python 3.7.
 
 This is an application built to allow the periodic scanning of online webstores, to notify users of changes in prices of items they select.
